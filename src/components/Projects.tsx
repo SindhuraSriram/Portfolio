@@ -1,11 +1,11 @@
 import React from 'react';
-import { Cloud, Bot, Shield, Brain, Activity, Cpu, Camera } from 'lucide-react';
+import { Cloud, Bot, Shield, Brain, Activity, Cpu, Camera, MessageSquare } from 'lucide-react';
 
 const projects = [
   {
     title: 'Llama2 Medical Chatbot',
     icon: MessageSquare,
-    tech: 'Python, Llama2, Langchain, Chainlit, PyPDF, FAISS, Sentence Transformers',
+    tech: 'Python, Llama2, Langchain, Chainlit, Sentence Transformers',
     date: 'October 2023 - Present',
     description: [
       'Developed a medical chatbot using Llama2, Langchain, and Sentence Transformers for accurate healthcare information',

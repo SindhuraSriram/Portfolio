@@ -6,7 +6,7 @@ const experiences = [
     company: 'Virtusa Corporation',
     location: 'Milpitas, CA, United States',
     role: 'Software Engineer Intern',
-    date: 'July 2024 - Present',
+    date: 'July 2024 - November 2024',
     icon: Code,
     tech: 'JavaScript, XML, jQuery, Microsoft Azure, REST APIs',
     description: [

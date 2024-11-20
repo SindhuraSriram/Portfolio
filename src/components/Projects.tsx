@@ -2,6 +2,18 @@ import React from 'react';
 import { Cloud, Bot, Shield, Brain, Activity, Cpu, Camera } from 'lucide-react';
 
 const projects = [
+   {
+    title: 'Llama2 Medical Chatbot',
+    icon: MessageSquare,
+    tech: 'Python, Llama2, Langchain, Chainlit, Sentence Transformers',
+    date: 'October 2023 - Present',
+    description: [
+      'Developed a medical chatbot using Llama2, Langchain, and Sentence Transformers for accurate healthcare information',
+      'Implemented context-aware responses with RAG (Retrieval Augmented Generation) using Chainlit for interactive UI',
+      'Optimized for CPU-based systems with 16GB+ RAM, ensuring accessible deployment'
+    ],
+    url: 'https://github.com/SindhuraSriram/Llama2-medical-chatbot'
+  },
   {
     title: 'Arctic RTS: Ice Depletion Pattern Recognition',
     icon: Cloud,
